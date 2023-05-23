@@ -1,0 +1,624 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12518313600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Verify user should login successfully",
+        "description": "",
+        "id": "login-test;verify-user-should-login-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 197600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 289710100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 618253900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter username \"Admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterUsername(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 388243000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter password \"admin123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "admin123",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 131831400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on login button",
+            "match": {
+              "location": "LoginSteps.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1277948200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I should be able to verify message \"Dashboard\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Dashboard",
+                  "offset": 36
+                }
+              ],
+              "location": "LoginSteps.iShouldBeAbleToVerifyMessage(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 28500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I should login successfully",
+            "match": {
+              "location": "LoginSteps.iShouldLoginSuccessfully()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@sanity"
+          },
+          {
+            "line": 4,
+            "name": "@regression"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9067515000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Verify the logo display on home page",
+        "description": "",
+        "id": "login-test;verify-the-logo-display-on-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 37700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 30200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 759963400,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I enter username \"Admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterUsername(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 366884200,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I enter password \"admin123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "admin123",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 118782300,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I click on login button",
+            "match": {
+              "location": "LoginSteps.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1655088600,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I should be able to verify the  logo is displayed",
+            "match": {
+              "location": "LoginSteps.iShouldBeAbleToVerifyTheLogoIsDisplayed()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 13,
+            "name": "@smoke"
+          },
+          {
+            "line": 13,
+            "name": "@regression"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 17764368800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 22,
+        "name": "Verify user should logout successfully",
+        "description": "",
+        "id": "login-test;verify-user-should-logout-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 187000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 213900,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1436678300,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I enter username \"Admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterUsername(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 242346900,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I enter password \"admin123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "admin123",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 182877100,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I click on login button",
+            "match": {
+              "location": "LoginSteps.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2003562400,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I click on user profile logo",
+            "match": {
+              "location": "LoginSteps.iClickOnUserProfileLogo()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2113655400,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I mouse hover on logout and click",
+            "match": {
+              "location": "LoginSteps.iMouseHoverOnLogoutAndClick()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1238199500,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I can verify the text \"Login Panel\" is displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Login Panel",
+                  "offset": 23
+                }
+              ],
+              "location": "LoginSteps.iCanVerifyTheTextIsDisplayed(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 21,
+            "name": "@regression"
+          },
+          {
+            "line": 21,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Login Test",
+    "description": "As a user I want to login successfully",
+    "id": "login-test",
+    "keyword": "Feature",
+    "uri": "login.feature"
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 29600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1882989200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter username \"Admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterUsername(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 251450300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter password \"admin123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "admin123",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1599815800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on login button",
+            "match": {
+              "location": "LoginSteps.iClickOnLoginButton()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I click on admin tab",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I should be able to verify \"System Users\" text",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 22831267000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 34,
+        "name": "Verify admin should delete the user successfully",
+        "description": "",
+        "id": "users-test;verify-admin-should-delete-the-user-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 35900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 35,
+            "name": "I enter username \"Lavanya\" into username field",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 36,
+            "name": "I select user role \"Admin\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 37,
+            "name": "I click on search button",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 38,
+            "name": "I should be able to verify the user should be in result list",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 39,
+            "name": "I click on check box",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 40,
+            "name": "I click on delete button",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 41,
+            "name": "Popup will display",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 42,
+            "name": "Click on ok button on popup",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 43,
+            "name": "I am able to verify text \"Successfully Deleted\"",
+            "match": {},
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 33,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Users Test",
+    "description": "As a user admin should add user successfully",
+    "id": "users-test",
+    "keyword": "Feature",
+    "uri": "usertest.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@sanity"
+      }
+    ]
+  }
+]

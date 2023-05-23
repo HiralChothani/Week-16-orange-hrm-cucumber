@@ -1,0 +1,71 @@
+2023-05-23 14:05:682 INFO  LoginPage :29 - Enter username Admin to username field [[ChromeDriver: chrome on WINDOWS (1afe87bdacf6e2b7bb5ce00fd82b80e6)] -> xpath: //input[@placeholder='Username']]
+2023-05-23 14:05:929 INFO  LoginPage :33 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (1afe87bdacf6e2b7bb5ce00fd82b80e6)] -> xpath: //input[@placeholder='Password']]
+2023-05-23 14:05:299 INFO  LoginPage :37 - click on login button [[ChromeDriver: chrome on WINDOWS (1afe87bdacf6e2b7bb5ce00fd82b80e6)] -> xpath: //button[normalize-space()='Login']]
+2023-05-23 14:05:862 INFO  HomePage :26 - get text from deshboard message [[ChromeDriver: chrome on WINDOWS (1afe87bdacf6e2b7bb5ce00fd82b80e6)] -> xpath: //header/div[1]/div[1]/span[1]/h6[1]]
+2023-05-23 14:05:152 INFO  LoginPage :32 - Enter username Admin to username field [[ChromeDriver: chrome on WINDOWS (95ab1ad39f914cbea9a003ab271ddfda)] -> xpath: //input[@placeholder='Username']]
+2023-05-23 14:05:441 INFO  LoginPage :36 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (95ab1ad39f914cbea9a003ab271ddfda)] -> xpath: //input[@placeholder='Password']]
+2023-05-23 14:05:709 INFO  LoginPage :40 - click on login button [[ChromeDriver: chrome on WINDOWS (95ab1ad39f914cbea9a003ab271ddfda)] -> xpath: //button[normalize-space()='Login']]
+2023-05-23 14:05:530 INFO  HomePage :26 - get text from deshboard message [[ChromeDriver: chrome on WINDOWS (95ab1ad39f914cbea9a003ab271ddfda)] -> xpath: //header/div[1]/div[1]/span[1]/h6[1]]
+2023-05-23 14:05:800 INFO  LoginPage :32 - Enter username Admin to username field [[ChromeDriver: chrome on WINDOWS (0ca4af8c39193193500fbe9e6ebbfa7f)] -> xpath: //input[@placeholder='Username']]
+2023-05-23 14:05:967 INFO  LoginPage :36 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (0ca4af8c39193193500fbe9e6ebbfa7f)] -> xpath: //input[@placeholder='Password']]
+2023-05-23 14:05:213 INFO  LoginPage :40 - click on login button [[ChromeDriver: chrome on WINDOWS (0ca4af8c39193193500fbe9e6ebbfa7f)] -> xpath: //button[normalize-space()='Login']]
+2023-05-23 14:05:768 INFO  HomePage :26 - get text from deshboard message [[ChromeDriver: chrome on WINDOWS (0ca4af8c39193193500fbe9e6ebbfa7f)] -> xpath: //header/div[1]/div[1]/span[1]/h6[1]]
+2023-05-23 14:05:960 INFO  HomePage :30 - get text from LogoProxy element for: DefaultElementLocator 'By.xpath: //div[@class='orangehrm-login-slot-wrapper']'
+2023-05-23 14:05:22 INFO  LoginPage :32 - Enter username Admin to username field [[ChromeDriver: chrome on WINDOWS (174da63e68f65f9b2c165303e27c4301)] -> xpath: //input[@placeholder='Username']]
+2023-05-23 14:05:173 INFO  LoginPage :36 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (174da63e68f65f9b2c165303e27c4301)] -> xpath: //input[@placeholder='Password']]
+2023-05-23 14:05:361 INFO  LoginPage :40 - click on login button [[ChromeDriver: chrome on WINDOWS (174da63e68f65f9b2c165303e27c4301)] -> xpath: //button[normalize-space()='Login']]
+2023-05-23 14:05:246 INFO  DashboardPage :26 - click on user profile logo [[ChromeDriver: chrome on WINDOWS (174da63e68f65f9b2c165303e27c4301)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2023-05-23 14:05:403 INFO  DashboardPage :30 - click on logout button [[ChromeDriver: chrome on WINDOWS (174da63e68f65f9b2c165303e27c4301)] -> xpath: (//a[normalize-space()='Logout'])[1]]
+2023-05-23 14:05:402 INFO  LoginPage :44 - get text from login panel [[ChromeDriver: chrome on WINDOWS (174da63e68f65f9b2c165303e27c4301)] -> xpath: //h5[normalize-space()='Login']]
+2023-05-23 14:05:574 INFO  LoginPage :32 - Enter username Admin to username field [[ChromeDriver: chrome on WINDOWS (efc2d1867ef0030eb4ffb35d679c89e5)] -> xpath: //input[@placeholder='Username']]
+2023-05-23 14:05:861 INFO  LoginPage :36 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (efc2d1867ef0030eb4ffb35d679c89e5)] -> xpath: //input[@placeholder='Password']]
+2023-05-23 14:05:167 INFO  LoginPage :40 - click on login button [[ChromeDriver: chrome on WINDOWS (efc2d1867ef0030eb4ffb35d679c89e5)] -> xpath: //button[normalize-space()='Login']]
+2023-05-23 14:05:829 INFO  HomePage :27 - get text from deshboard message [[ChromeDriver: chrome on WINDOWS (efc2d1867ef0030eb4ffb35d679c89e5)] -> xpath: //header/div[1]/div[1]/span[1]/h6[1]]
+2023-05-23 14:05:20 INFO  LoginPage :32 - Enter username Admin to username field [[ChromeDriver: chrome on WINDOWS (61d9e2634ac4500dc0361f2207282fc0)] -> xpath: //input[@placeholder='Username']]
+2023-05-23 14:05:217 INFO  LoginPage :36 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (61d9e2634ac4500dc0361f2207282fc0)] -> xpath: //input[@placeholder='Password']]
+2023-05-23 14:05:515 INFO  LoginPage :40 - click on login button [[ChromeDriver: chrome on WINDOWS (61d9e2634ac4500dc0361f2207282fc0)] -> xpath: //button[normalize-space()='Login']]
+2023-05-23 14:05:52 INFO  HomePage :27 - get text from deshboard message [[ChromeDriver: chrome on WINDOWS (61d9e2634ac4500dc0361f2207282fc0)] -> xpath: //header/div[1]/div[1]/span[1]/h6[1]]
+2023-05-23 14:05:201 INFO  HomePage :32 - get text from LogoProxy element for: DefaultElementLocator 'By.xpath: //div[@class='orangehrm-login-logo']//img[@alt='orangehrm-logo']'
+2023-05-23 14:05:607 INFO  LoginPage :32 - Enter username Admin to username field [[ChromeDriver: chrome on WINDOWS (b8aaaf424712068fcd1750ba1dd40385)] -> xpath: //input[@placeholder='Username']]
+2023-05-23 14:05:792 INFO  LoginPage :36 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (b8aaaf424712068fcd1750ba1dd40385)] -> xpath: //input[@placeholder='Password']]
+2023-05-23 14:05:89 INFO  LoginPage :40 - click on login button [[ChromeDriver: chrome on WINDOWS (b8aaaf424712068fcd1750ba1dd40385)] -> xpath: //button[normalize-space()='Login']]
+2023-05-23 14:05:235 INFO  DashboardPage :26 - click on user profile logo [[ChromeDriver: chrome on WINDOWS (b8aaaf424712068fcd1750ba1dd40385)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2023-05-23 14:05:344 INFO  DashboardPage :30 - click on logout button [[ChromeDriver: chrome on WINDOWS (b8aaaf424712068fcd1750ba1dd40385)] -> xpath: (//a[normalize-space()='Logout'])[1]]
+2023-05-23 14:05:312 INFO  LoginPage :44 - get text from login panel [[ChromeDriver: chrome on WINDOWS (b8aaaf424712068fcd1750ba1dd40385)] -> xpath: //h5[normalize-space()='Login']]
+2023-05-23 14:05:450 INFO  LoginPage :32 - Enter username Admin to username field [[ChromeDriver: chrome on WINDOWS (ee94054a3b4b72d88cdf234796a31c60)] -> xpath: //input[@placeholder='Username']]
+2023-05-23 14:05:613 INFO  LoginPage :36 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (ee94054a3b4b72d88cdf234796a31c60)] -> xpath: //input[@placeholder='Password']]
+2023-05-23 14:05:833 INFO  LoginPage :40 - click on login button [[ChromeDriver: chrome on WINDOWS (ee94054a3b4b72d88cdf234796a31c60)] -> xpath: //button[normalize-space()='Login']]
+2023-05-23 14:05:366 INFO  HomePage :27 - get text from deshboard message [[ChromeDriver: chrome on WINDOWS (ee94054a3b4b72d88cdf234796a31c60)] -> xpath: //header/div[1]/div[1]/span[1]/h6[1]]
+2023-05-23 14:05:76 INFO  LoginPage :32 - Enter username Admin to username field [[ChromeDriver: chrome on WINDOWS (0bb02c0effa04968a63cda67d862e3ee)] -> xpath: //input[@placeholder='Username']]
+2023-05-23 14:05:220 INFO  LoginPage :36 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (0bb02c0effa04968a63cda67d862e3ee)] -> xpath: //input[@placeholder='Password']]
+2023-05-23 14:05:408 INFO  LoginPage :40 - click on login button [[ChromeDriver: chrome on WINDOWS (0bb02c0effa04968a63cda67d862e3ee)] -> xpath: //button[normalize-space()='Login']]
+2023-05-23 14:05:535 INFO  DashboardPage :26 - click on user profile logo [[ChromeDriver: chrome on WINDOWS (0bb02c0effa04968a63cda67d862e3ee)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2023-05-23 14:05:648 INFO  DashboardPage :30 - click on logout button [[ChromeDriver: chrome on WINDOWS (0bb02c0effa04968a63cda67d862e3ee)] -> xpath: (//a[normalize-space()='Logout'])[1]]
+2023-05-23 14:05:437 INFO  LoginPage :44 - get text from login panel [[ChromeDriver: chrome on WINDOWS (0bb02c0effa04968a63cda67d862e3ee)] -> xpath: //h5[normalize-space()='Login']]
+2023-05-23 21:05:977 INFO  LoginPage :41 - Enter username  Admin to username  field [[ChromeDriver: chrome on WINDOWS (117d8beb785c22978c7238ef3e834c6f)] -> name: username]
+2023-05-23 21:05:354 INFO  LoginPage :46 - Enter Password  admin123 to Password  field [[ChromeDriver: chrome on WINDOWS (117d8beb785c22978c7238ef3e834c6f)] -> name: password]
+2023-05-23 21:05:650 INFO  LoginPage :51 - Click On Login Button
+2023-05-23 21:05:907 INFO  DashboardPage :26 - get actual title text of register page
+2023-05-23 21:05:910 INFO  LoginPage :41 - Enter username  Admin to username  field [[ChromeDriver: chrome on WINDOWS (de0403cac635826879d8bd8a7b48d6b8)] -> name: username]
+2023-05-23 21:05:458 INFO  LoginPage :46 - Enter Password  admin123 to Password  field [[ChromeDriver: chrome on WINDOWS (de0403cac635826879d8bd8a7b48d6b8)] -> name: password]
+2023-05-23 21:05:614 INFO  LoginPage :51 - Click On Login Button
+2023-05-23 21:05:766 INFO  HomePage :45 - Verify logo is displayed
+2023-05-23 21:05:359 INFO  LoginPage :41 - Enter username  Admin to username  field [[ChromeDriver: chrome on WINDOWS (55e6596c4f0a625fa6adf53d4094a719)] -> name: username]
+2023-05-23 21:05:660 INFO  LoginPage :46 - Enter Password  admin123 to Password  field [[ChromeDriver: chrome on WINDOWS (55e6596c4f0a625fa6adf53d4094a719)] -> name: password]
+2023-05-23 21:05:934 INFO  LoginPage :51 - Click On Login Button
+2023-05-23 21:05:548 INFO  LoginPage :41 - Enter username  Admin to username  field [[ChromeDriver: chrome on WINDOWS (7682840ca754bc3a5f0f536d927e3c31)] -> name: username]
+2023-05-23 21:05:991 INFO  LoginPage :46 - Enter Password  admin123 to Password  field [[ChromeDriver: chrome on WINDOWS (7682840ca754bc3a5f0f536d927e3c31)] -> name: password]
+2023-05-23 21:05:217 INFO  LoginPage :51 - Click On Login Button
+2023-05-23 21:05:361 INFO  DashboardPage :26 - get actual title text of register page
+2023-05-23 21:05:303 INFO  LoginPage :41 - Enter username  Admin to username  field [[ChromeDriver: chrome on WINDOWS (37cc207e8c8253cbbffd629385578f42)] -> name: username]
+2023-05-23 21:05:563 INFO  LoginPage :46 - Enter Password  admin123 to Password  field [[ChromeDriver: chrome on WINDOWS (37cc207e8c8253cbbffd629385578f42)] -> name: password]
+2023-05-23 21:05:863 INFO  LoginPage :51 - Click On Login Button
+2023-05-23 21:05:996 INFO  HomePage :45 - Verify logo is displayed
+2023-05-23 21:05:740 INFO  LoginPage :41 - Enter username  Admin to username  field [[ChromeDriver: chrome on WINDOWS (e0160d7fab0f2ef6fa3cc0271405bf2a)] -> name: username]
+2023-05-23 21:05:893 INFO  LoginPage :46 - Enter Password  admin123 to Password  field [[ChromeDriver: chrome on WINDOWS (e0160d7fab0f2ef6fa3cc0271405bf2a)] -> name: password]
+2023-05-23 21:05:105 INFO  LoginPage :51 - Click On Login Button
+2023-05-23 21:05:326 INFO  HomePage :55 - Click on user profile logo
+2023-05-23 21:05:308 INFO  LoginPage :65 - Mouse hover and click on logout tab
+2023-05-23 21:05:274 INFO  LoginPage :41 - Enter username  Admin to username  field [[ChromeDriver: chrome on WINDOWS (1f928f91afbeda35b63e33b132756adb)] -> name: username]
+2023-05-23 21:05:457 INFO  LoginPage :46 - Enter Password  admin123 to Password  field [[ChromeDriver: chrome on WINDOWS (1f928f91afbeda35b63e33b132756adb)] -> name: password]
+2023-05-23 21:05:675 INFO  LoginPage :51 - Click On Login Button
